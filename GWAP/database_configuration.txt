@@ -1,0 +1,3 @@
+database=gwap
+database_user=
+database_password=
